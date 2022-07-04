@@ -1,4 +1,4 @@
-let url = 'http://easy-eng.ru';
+let url = 'https://pokeapi.co/api/v2/pokemon/ditto';
 let username = 'admin';
 let password = 'O12345678';
 
